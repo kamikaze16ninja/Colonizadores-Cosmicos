@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://idp5n1sklxiv"]
+
+[ext_resource type="Texture2D" uid="uid://fpatnsbhpl1i" path="res://Sprites/back/8k_stars_milky_way.jpg" id="1_46svy"]
+
+[sub_resource type="PanoramaSkyMaterial" id="PanoramaSkyMaterial_comaw"]
+panorama = ExtResource("1_46svy")
+
+[sub_resource type="Sky" id="Sky_7pm1t"]
+sky_material = SubResource("PanoramaSkyMaterial_comaw")
+
+[sub_resource type="Environment" id="Environment_x0s62"]
+background_mode = 2
+sky = SubResource("Sky_7pm1t")
+
+[node name="galaxy" type="Node3D" unique_id=21132486]
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="." unique_id=532842479]
+environment = SubResource("Environment_x0s62")

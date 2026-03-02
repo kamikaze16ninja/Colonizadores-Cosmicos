@@ -1,10 +1,13 @@
-[gd_scene load_steps=2 format=3 uid="uid://dhkh0cmua0nw5"]
+[gd_scene format=3 uid="uid://dhkh0cmua0nw5"]
 
-[ext_resource type="PackedScene" uid="uid://ccmeycfugjlx6" path="res://Escenas/player.tscn" id="1_rpj4x"]
+[ext_resource type="PackedScene" uid="uid://idp5n1sklxiv" path="res://Escenas/galaxy.tscn" id="1_6lbni"]
+[ext_resource type="ArrayMesh" uid="uid://csmks8se10ln3" path="res://Sprites/ofcial hero/GalactixRacer/Package/GalactixRacer.obj" id="2_vt1rs"]
 
-[node name="Main" type="Node2D"]
+[node name="Main" type="Node3D" unique_id=242704078]
 
-[node name="Player" parent="." instance=ExtResource("1_rpj4x")]
+[node name="galaxy" parent="." unique_id=21132486 instance=ExtResource("1_6lbni")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 63.254555, 629.1995, -317.748)
 
-[node name="Camera2D" type="Camera2D" parent="."]
-position = Vector2(1, -277)
+[node name="GalactixRacer" type="MeshInstance3D" parent="." unique_id=2090670806]
+transform = Transform3D(5, 0, 0, 0, 5, 0, 0, 0, 5, 66.260574, 304.04086, -144.48358)
+mesh = ExtResource("2_vt1rs")

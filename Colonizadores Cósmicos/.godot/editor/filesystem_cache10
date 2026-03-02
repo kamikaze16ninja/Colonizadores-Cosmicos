@@ -1,0 +1,53 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1772465070
+icon.svg::CompressedTexture2D::1660568296663333815::1772458066::1772458157::1::::<><><>0<>0<>fbde02037601fa962a6cedf40aaddd98<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://Escenas/::1772467036
+galaxy.tscn::PackedScene::568668934875209145::1772460644::0::1::::<><><>0<>0<><>::uid://fpatnsbhpl1i::::res://Sprites/back/8k_stars_milky_way.jpg
+main.tscn::PackedScene::7671697522377175430::1772461872::0::1::::<><><>0<>0<><>::uid://idp5n1sklxiv::::res://Escenas/galaxy.tscn<>uid://csmks8se10ln3::::res://Sprites/ofcial hero/GalactixRacer/Package/GalactixRacer.obj
+ship.tscn::PackedScene::1508795487627580750::1772466633::0::1::::<><><>0<>0<><>::uid://csmks8se10ln3::::res://Sprites/ofcial hero/GalactixRacer/Package/GalactixRacer.obj
+ship_efect.tscn::PackedScene::7678310641051334920::1772467036::0::1::::<><><>0<>0<><>::
+::res://Sprites/::1772470520
+::res://Sprites/back/::1772460142
+8k_stars_milky_way.jpg::CompressedTexture2D::381944525250675888::1772459826::1772460142::1::::<><><>0<>0<>588fa7a981bdb11bec48addef7b8e02d<>res://.godot/imported/8k_stars_milky_way.jpg-08705331cfc1399be0e66ea74a9ac2f4.s3tc.ctex::
+::res://Sprites/ofcial hero/::1772459717
+::res://Sprites/ofcial hero/Camo Stellar Jet/::1772459229
+::res://Sprites/ofcial hero/Camo Stellar Jet/Package/::1772459566
+CamoStellarJet.obj::Mesh::111979411432041778::1772459229::1772459566::1::::<><><>0<>0<>c0e8f7e08523d5c6d4dc015c8b68cad4<>res://.godot/imported/CamoStellarJet.obj-80312b5dbf487a5748a598c7b6c350e5.mesh<*>res://.godot/imported/CamoStellarJet.obj-80312b5dbf487a5748a598c7b6c350e5.mesh::uid://dgtrd8uogpsbc::::res://Sprites/ofcial hero/Camo Stellar Jet/Package/CamoStellarJet.png
+CamoStellarJet.png::CompressedTexture2D::7620657601304745220::1772459229::1772459566::1::::<><><>0<>0<>7e4834e4c81dca8afaa58b87a686b881<>res://.godot/imported/CamoStellarJet.png-3ef7b3546d82c5a0d1e23565ad642b4a.s3tc.ctex::
+::res://Sprites/ofcial hero/GalactixRacer/::1772459244
+::res://Sprites/ofcial hero/GalactixRacer/Package/::1772459717
+GalactixRacer.obj::Mesh::6061654161431971562::1574507319::1772459717::1::::<><><>0<>0<>acc9456a0e6e2b7f5dcdb3d6cfd297ea<>res://.godot/imported/GalactixRacer.obj-75df6e71014f9d2bb0770a7c09448687.mesh<*>res://.godot/imported/GalactixRacer.obj-75df6e71014f9d2bb0770a7c09448687.mesh::uid://dii2tr4bkpd2m::::res://Sprites/ofcial hero/GalactixRacer/Package/GalactixRacer.png
+GalactixRacer.png::CompressedTexture2D::7738962048860601254::1574507319::1772459717::1::::<><><>0<>0<>e2c40192c9339363fb5f16bd4fb851f7<>res://.godot/imported/GalactixRacer.png-836290066ef986b5f0895106022d5749.s3tc.ctex::
+::res://Sprites/ofcial hero/Infrared Furtive/::1772459250
+::res://Sprites/ofcial hero/Infrared Furtive/Package/::1772459610
+InfraredFurtive.obj::Mesh::8041033000414384780::1772459250::1772459610::1::::<><><>0<>0<>ba546c616e891d152679463744917bfe<>res://.godot/imported/InfraredFurtive.obj-ab8990cedd4a6e2009643e62e2bf71b2.mesh<*>res://.godot/imported/InfraredFurtive.obj-ab8990cedd4a6e2009643e62e2bf71b2.mesh::uid://bk5xdfn2jg5jo::::res://Sprites/ofcial hero/Infrared Furtive/Package/InfraredFurtive.png
+InfraredFurtive.png::CompressedTexture2D::3151642584848823960::1772459250::1772459610::1::::<><><>0<>0<>a3499fb0f7461f188d9361092b847b00<>res://.godot/imported/InfraredFurtive.png-a24f004e78021f39c0ec7c4685bb1ad3.s3tc.ctex::
+::res://Sprites/ofcial hero/Meteor Slice/::1772459266
+::res://Sprites/ofcial hero/Meteor Slice/Package/::1772459705
+MeteorSlicer.obj::Mesh::2797783068248055681::1574852529::1772459705::1::::<><><>0<>0<>78f0c50d82d5e2a53bd563fa91ccba00<>res://.godot/imported/MeteorSlicer.obj-2b74eee4726f2d05b7edb178998a3692.mesh<*>res://.godot/imported/MeteorSlicer.obj-2b74eee4726f2d05b7edb178998a3692.mesh::uid://tp01x4ejbtt::::res://Sprites/ofcial hero/Meteor Slice/Package/MeteorSlicer.png
+MeteorSlicer.png::CompressedTexture2D::40179979527188613::1574852529::1772459704::1::::<><><>0<>0<>e13c25146d71807921186cdc88be14b4<>res://.godot/imported/MeteorSlicer.png-30f5e64836cb05112732e828c188ce69.s3tc.ctex::
+::res://Sprites/ofcial hero/Transtellar/::1772459300
+::res://Sprites/ofcial hero/Transtellar/Package/::1772459650
+Transtellar.obj::Mesh::3868305958793915701::1772459300::1772459650::1::::<><><>0<>0<>58d452be8b3dbff23ae20828c57c8940<>res://.godot/imported/Transtellar.obj-aca7b002326feb29dd4ce174d455e6e5.mesh<*>res://.godot/imported/Transtellar.obj-aca7b002326feb29dd4ce174d455e6e5.mesh::uid://gx4kat5ncrao::::res://Sprites/ofcial hero/Transtellar/Package/Transtellar.png
+Transtellar.png::CompressedTexture2D::470392431632662834::1772459300::1772459650::1::::<><><>0<>0<>44646f8c062537d88a211f7f2eb9fb3a<>res://.godot/imported/Transtellar.png-fc5afa6b89e2ad52a9f4d9f7aa0d4bb3.s3tc.ctex::
+::res://Sprites/ofcial villain/::1772459686
+::res://Sprites/ofcial villain/DualStriker/::1772459238
+::res://Sprites/ofcial villain/DualStriker/Package/::1772459633
+DualStriker.obj::Mesh::6977462023486941354::1772459238::1772459633::1::::<><><>0<>0<>8cc33589bf220c3483ad678c78848bb8<>res://.godot/imported/DualStriker.obj-5d053a95343830b06add31be5173faf0.mesh<*>res://.godot/imported/DualStriker.obj-5d053a95343830b06add31be5173faf0.mesh::uid://cs5bogesvytkn::::res://Sprites/ofcial villain/DualStriker/Package/DualStriker.png
+DualStriker.png::CompressedTexture2D::6098257925766198141::1772459238::1772459633::1::::<><><>0<>0<>9c9843920d3cf53e23cbdc90749cd36f<>res://.godot/imported/DualStriker.png-0381b7339aa076d8ff6252511dfb25d8.s3tc.ctex::
+::res://Sprites/ofcial villain/RedFighter villain/::1772459281
+::res://Sprites/ofcial villain/RedFighter villain/Package/::1772459534
+RedFighter.obj::Mesh::6186358022274699510::1772459281::1772459534::1::::<><><>0<>0<>c47904547ba163e64deb10be11b4c167<>res://.godot/imported/RedFighter.obj-f45de4a08ae36430d1ba0df4f6c8dcb3.mesh<*>res://.godot/imported/RedFighter.obj-f45de4a08ae36430d1ba0df4f6c8dcb3.mesh::uid://bgjwe6qplquul::::res://Sprites/ofcial villain/RedFighter villain/Package/RedFighter.png
+RedFighter.png::CompressedTexture2D::2827477715961923987::1772459281::1772459534::1::::<><><>0<>0<>ec49f3a93ebe6d94b04ba372daf7386e<>res://.godot/imported/RedFighter.png-c2f79a9f3937d8c850d412fb7861e0a9.s3tc.ctex::
+::res://Sprites/ofcial villain/Ultraviolet Intruder/::1772459308
+::res://Sprites/ofcial villain/Ultraviolet Intruder/Package/::1772459667
+UltravioletIntruder.obj::Mesh::8149911291846063020::1772459308::1772459667::1::::<><><>0<>0<>d9a60d484b012d6a0705841f512a42c0<>res://.godot/imported/UltravioletIntruder.obj-e2ec20d054407e6b19bc89b2128005d6.mesh<*>res://.godot/imported/UltravioletIntruder.obj-e2ec20d054407e6b19bc89b2128005d6.mesh::uid://qdbwsg05c7lf::::res://Sprites/ofcial villain/Ultraviolet Intruder/Package/UltravioletIntruder.png
+UltravioletIntruder.png::CompressedTexture2D::1129315591794592395::1772459308::1772459667::1::::<><><>0<>0<>0bba6f509a11f5e86944c35f4c60a48a<>res://.godot/imported/UltravioletIntruder.png-21263dd3be1ce8d696225d6dc4b78801.s3tc.ctex::
+::res://Sprites/ofcial villain/Warship/::1772459315
+::res://Sprites/ofcial villain/Warship/Package/::1772459686
+Warship.obj::Mesh::8420289808035903591::1574793971::1772459686::1::::<><><>0<>0<>dedb33a1753ab4a1125cdec32720dc93<>res://.godot/imported/Warship.obj-64624ba4e2e99aed7de567a79326f018.mesh<*>res://.godot/imported/Warship.obj-64624ba4e2e99aed7de567a79326f018.mesh::uid://c0svtq1khhj3j::::res://Sprites/ofcial villain/Warship/Package/Warship.png
+Warship.png::CompressedTexture2D::6566031125844888653::1574793971::1772459686::1::::<><><>0<>0<>6829d47b2e23997d63ed0d575cec5b78<>res://.godot/imported/Warship.png-4cf0f46fe404a95e92db362c4a3b9baf.s3tc.ctex::
+::res://Sprites/spacefire/::1772470548
+cube.obj::Mesh::2309703401728440503::1772462290::1772470548::1::::<><><>0<>0<>c6181036f7136d2df6349398f12b6333<>res://.godot/imported/cube.obj-2b53c3702389dd6131a18bbed7ff764a.mesh<*>res://.godot/imported/cube.obj-2b53c3702389dd6131a18bbed7ff764a.mesh::
+T_fire01.png::CompressedTexture2D::7709931089701625184::1772470458::1772470591::1::::<><><>0<>0<>80abb4701cbd73084b7a66509e72a220<>res://.godot/imported/T_fire01.png-7980b0347e21b59386a4be63cbf0a827.s3tc.ctex::
+T_VFX_Glow_1.PNG::CompressedTexture2D::8355615317084187602::1772470452::1772470548::1::::<><><>0<>0<>9d62434f5f47b5d90f9553b3d5252bd3<>res://.godot/imported/T_VFX_Glow_1.PNG-0f794b09840da7dfdc03db2a7585e9d5.ctex::

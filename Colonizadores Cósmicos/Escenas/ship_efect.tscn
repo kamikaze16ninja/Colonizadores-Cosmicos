@@ -1,0 +1,64 @@
+[gd_scene format=3 uid="uid://dhnowishuirkq"]
+
+[ext_resource type="Texture2D" uid="uid://dh30o6bhqm2k7" path="res://Sprites/spacefire/T_fire01.png" id="1_youue"]
+
+[sub_resource type="ParticleProcessMaterial" id="ParticleProcessMaterial_lhncn"]
+emission_shape = 1
+emission_sphere_radius = 0.3
+gravity = Vector3(0, 0, -50)
+color = Color(1, 0.8235294, 0, 1)
+collision_mode = 2
+collision_use_scale = true
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_tqulk"]
+transparency = 1
+shading_mode = 0
+vertex_color_use_as_albedo = true
+vertex_color_is_srgb = true
+albedo_texture = ExtResource("1_youue")
+billboard_mode = 1
+billboard_keep_scale = true
+
+[sub_resource type="QuadMesh" id="QuadMesh_youue"]
+material = SubResource("StandardMaterial3D_tqulk")
+
+[sub_resource type="ParticleProcessMaterial" id="ParticleProcessMaterial_i8tl4"]
+emission_shape_scale = Vector3(4, 4, 0.2)
+emission_shape = 1
+emission_sphere_radius = 1.0
+gravity = Vector3(0, 0, -30)
+linear_accel_min = 0.99999774
+linear_accel_max = 99.99999
+radial_accel_min = 0.99999774
+radial_accel_max = 99.99999
+tangential_accel_min = 0.99999774
+tangential_accel_max = 99.99999
+collision_mode = 2
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_i8tl4"]
+transparency = 1
+billboard_mode = 3
+particles_anim_h_frames = 1
+particles_anim_v_frames = 1
+particles_anim_loop = false
+
+[sub_resource type="QuadMesh" id="QuadMesh_tqulk"]
+material = SubResource("StandardMaterial3D_i8tl4")
+
+[node name="ship efect" type="Node3D" unique_id=812057506]
+
+[node name="GPUParticles3D2" type="GPUParticles3D" parent="." unique_id=1248967850]
+amount = 50
+lifetime = 0.5
+process_material = SubResource("ParticleProcessMaterial_lhncn")
+draw_pass_1 = SubResource("QuadMesh_youue")
+
+[node name="GPUParticles3D" type="GPUParticles3D" parent="." unique_id=596379576]
+visible = false
+amount = 200
+amount_ratio = 0.5
+visibility_aabb = AABB(-4, -4, -4, 4, 4, 4)
+draw_order = 1
+transform_align = 3
+process_material = SubResource("ParticleProcessMaterial_i8tl4")
+draw_pass_1 = SubResource("QuadMesh_tqulk")

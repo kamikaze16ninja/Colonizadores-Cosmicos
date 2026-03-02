@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://vq4v2jox5ij3"]
+
+[ext_resource type="ArrayMesh" uid="uid://csmks8se10ln3" path="res://Sprites/ofcial hero/GalactixRacer/Package/GalactixRacer.obj" id="1_lr42n"]
+[ext_resource type="PackedScene" uid="uid://dhnowishuirkq" path="res://Escenas/ship_efect.tscn" id="2_7m6f2"]
+
+[node name="Ship" type="Node3D" unique_id=199337165]
+
+[node name="GalactixRacer" type="MeshInstance3D" parent="." unique_id=1406109966]
+transform = Transform3D(0.2, 0, 0, 0, 0.2, 0, 0, 0, 0.2, -0.45547396, -0.56544423, 0.8516027)
+mesh = ExtResource("1_lr42n")
+
+[node name="ship efect" parent="." unique_id=812057506 instance=ExtResource("2_7m6f2")]
+transform = Transform3D(0.1, 0, 0, 0, 0.1, 0, 0, 0, 0.1, -0.06294075, -0.45490816, -0.37155312)
